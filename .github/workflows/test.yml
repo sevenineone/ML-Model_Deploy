@@ -16,10 +16,10 @@ jobs:
     runs-on: ${{ matrix.test-os }}
     steps:
       - uses: actions/checkout@v3
-      - name: python 3.7 installation
+      - name: python 3.9 installation
         uses: actions/setup-python@v3
         with:
-          python-version: "3.7"
+          python-version: "3.9"
       - name: dependencies
         run: |
           python -m pip install --upgrade pip

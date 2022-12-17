@@ -4,6 +4,10 @@ develop
 
 [![app tests](https://github.com/sevenineone/ML-Model_Deploy/actions/workflows/test.yml/badge.svg?branch=develop)](https://github.com/sevenineone/ML-Model_Deploy/actions/workflows/test.yml)
 
+main
+
+[![app tests](https://github.com/sevenineone/ML-Model_Deploy/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/sevenineone/ML-Model_Deploy/actions/workflows/test.yml)
+
 Simple ml deployment. Model learning using iris dataset.
 
 ## Example
